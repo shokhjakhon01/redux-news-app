@@ -1,0 +1,44 @@
+{
+  "news": [
+    {
+      "id": "6170d251-bb3e-4674-8c09-98d99e3ff190",
+      "name": "Xavi was train barcelona",
+      "description": "Our default branch is for development of our Bootstrap 5 release. Head to the v4-dev branch to view the readme, documentation, and source code for Bootstrap 4.",
+      "category": "Hot News"
+    },
+    {
+      "id": "bfa1231a-bf8c-49d2-ae01-65c155481a74",
+      "name": "Report: Child care woes cost Arizona economy $1.8 billion a year",
+      "description": "Arizona parents representing various geographic areas, income levels, and racial and ethnic backgrounds reported changing jobs, turning down jobs, decreasing their hours, forgoing promotions or leaving the workforce entirely as a result of inconsistent or unaffordable care.",
+      "category": "World News"
+    },
+    {
+      "id": "709044a8-a33e-4f9a-8b2f-d0b8fdae92aa",
+      "name": "Report: Child care woes cost Arizona economy $1.8 billion a year",
+      "description": "Our default branch is for development of our Bootstrap 5 release. Head to the v4-dev branch to view the readme, documentation, and source code for Bootstrap 4.",
+      "category": ""
+    }
+  ],
+  "filters": [
+    {
+      "name": "All",
+      "label": "All",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "Hot News",
+      "label": "Hot News",
+      "className": "btn-danger"
+    },
+    {
+      "name": "Sport News",
+      "label": "Sport News",
+      "className": "btn-primary"
+    },
+    {
+      "name": "World News",
+      "label": "World News",
+      "className": "btn-success"
+    }
+  ]
+}
